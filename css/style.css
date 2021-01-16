@@ -1,0 +1,13 @@
+main{
+    height: 70vh;
+}
+
+#test,#hashtags{
+    transition: all .5s ease-in-out;
+}
+a{
+    text-decoration: none;
+}
+#hashtags{
+    opacity: 0;
+}
